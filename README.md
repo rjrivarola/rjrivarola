@@ -18,7 +18,7 @@ For more information, feel free to contact me via [email](r.rivarolam@gmail.com)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Dask](https://img.shields.io/badge/-Dask-111111?logo=dask&logoColor=white&style=for-the-badge)
-![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge)
 ![Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?logo=apachehive&logoColor=black&style=for-the-badge)
 
 ## Code samples
