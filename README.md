@@ -1,6 +1,6 @@
 ## About me
 
-I'm Rodrigo Rivarola. I recently graduated from the University of Chicago's [Master in Computational analysis and Public Policy](https://capp.uchicago.edu/). Before this I worked in economic research and data science at The World Bank and non-profit sector.
+I'm Rodrigo Rivarola. I recently graduated from the University of Chicago's [Master in Computational analysis and Public Policy](https://capp.uchicago.edu/). Before this I worked in economic research and data science at The World Bank, and public sector consulting with government agencies and international development organizations.
 
 For more information, feel free to contact me via [email](r.rivarolam@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rodrigo-rivarola/).
 
