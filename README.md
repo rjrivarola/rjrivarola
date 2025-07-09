@@ -19,7 +19,7 @@ For more information, feel free to contact me via [email](r.rivarolam@gmail.com)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![Dask](https://img.shields.io/badge/-Dask-111111?logo=dask&logoColor=white&style=for-the-badge)
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge)
-![Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?logo=apachehive&logoColor=black&style=for-the-badge)
+![Hive](https://img.shields.io/badge/-Hive-FDEE21?style=for-the-badge)
 
 ## Code samples
 - [Apartments Plus](https://github.com/uchicago-capp-30320/apt-plus) (2025 | Python, JavaScript): [Apartments Plus](https://aptpl.us/) aggregates data that mainstream rental sites often do not display, such as building defects, grocery stores and bus stops availability. My contributions to this project as GIS frontend specialist were developing the map features and functionality.
