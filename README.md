@@ -20,7 +20,10 @@ For more information, feel free to contact me via [email](r.rivarolam@gmail.com)
 ![Dask](https://img.shields.io/badge/-Dask-111111?logo=dask&logoColor=white&style=for-the-badge)
 ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)
 ![Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?logo=apachehive&logoColor=black&style=for-the-badge)
-![GeoPandas](https://img.shields.io/badge/-GeoPandas-3288BD?style=for-the-badge)
+
+## Code samples
+- [Apartments Plus](https://github.com/uchicago-capp-30320/apt-plus) (2025 | Python, JavaScript): [Apartments Plus](https://aptpl.us/) aggregates data that mainstream rental sites often do not display, such as building defects, grocery stores and bus stops availability. My contributions to this project as GIS frontend specialist were developing the map features and functionality.
+- [Distance to early childare centers and attendance rates](github.com/LosCAPPos/EarlyEducationProject) (2024 | Python): Project to analyze the importance of distance to the closest early education center at a census tract level, and (ii) an optimization model to assess where to locate new early education centers based on impact in distances. My contributions included calculating distances from each census tract in Chicago to the closest childcare center (using Google API), geospatial data analysis (spatial joins) and data visualization. 
 
 
 
