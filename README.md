@@ -11,6 +11,16 @@ For more information, feel free to contact me via [email](r.rivarolam@gmail.com)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![QGIS](https://img.shields.io/badge/-QGIS-589632?logo=qgis&logoColor=white&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![Dask](https://img.shields.io/badge/-Dask-111111?logo=dask&logoColor=white&style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge)
+![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?logo=apachehive&logoColor=black&style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/-GeoPandas-3288BD?style=for-the-badge)
+
+
 
