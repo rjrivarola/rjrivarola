@@ -34,7 +34,7 @@ Some repos for school projects are private to follow academic honesty policies. 
   </summary>
   <ul>
     <li><strong>Classification</strong>: KNN, Decision Trees</li>
-    <li><strong>Accuracy: perceptrons, separability</li>
+    <li><strong>Accuracy</strong>: perceptrons, separability</li>
     <li><strong>Optimization</strong>: stochastic gradient descent, learning rates</li>
     <li><strong>Deep Learning</strong>: neural networks, backpropagation, PyTorch</li>
   </ul>
