@@ -42,9 +42,18 @@ Some repos for school projects are private to follow academic honesty policies. 
 
 <details>
   <summary>
-    <strong>Generative AI (Python | )</strong>
+    <strong>Generative AI (Python)</strong>
   </summary>
-    Varied content: Encoder/Decoder, fine tuning, prompt engineering, agents (langchain), RAG, transformers, developing AI applications   
+    Varied content: Encoder/Decoder, fine tuning, prompt engineering, building agents with LangGraph, RAG, transformers, developing AI applications   
   <br><br>
 </details>
 
+<details>
+  <summary>
+    <strong>Large-scale computing (Python | AWS (boto3), spark, dask, Hive, pycuda)</strong>
+  </summary>
+  <ul>
+    <li><strong>Parallel computing</strong>: pyspark, dask, mpi4py, pycuda</li>
+    <li><strong>Cloud computing</strong>: AWS (boto3), EC2, S3, DynamoDB</li>
+  </ul>
+</details>
