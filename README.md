@@ -30,13 +30,21 @@ Some repos for school projects are private to follow academic honesty policies. 
 
 <details>
   <summary>
-    <strong>Machine Learning for Public Policy (Pythin | scikit-learn, pytorch)</strong>
+    <strong>Machine Learning for Public Policy (Python | scikit-learn, pytorch)</strong>
   </summary>
   <ul>
     <li><strong>Classification</strong>: KNN, Decision Trees</li>
     <li><strong>Accuracy</strong>: perceptrons, separability</li>
     <li><strong>Optimization</strong>: stochastic gradient descent, learning rates</li>
-    <li><strong>Deep Learning</strong>: neural networks, backpropagation, PyTorch</li>
+    <li><strong>Deep Learning</strong>: neural networks, backpropagation</li>
   </ul>
+</details>
+
+<details>
+  <summary>
+    <strong>Generative AI (Python | )</strong>
+  </summary>
+    Varied content: Encoder/Decoder, fine tuning, prompt engineering, agents (langchain), RAG, transformers, developing AI applications   
+  <br><br>
 </details>
 
