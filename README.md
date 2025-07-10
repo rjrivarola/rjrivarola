@@ -26,5 +26,17 @@ For more information, feel free to contact me via [email](r.rivarolam@gmail.com)
 - [Qhapac-Nan](https://github.com/macs30123-s24/final-project-qhapac_nan) (2025 | Python): Project to explore geospatial determinants of the Qhapac-Ñan road. I use AWS and a dask cluster to run more than 100 models using a 11 million observations geospatial dataset, produce summary statistics and visualizations.   
 - [Distance to early childare centers and attendance rates](github.com/LosCAPPos/EarlyEducationProject) (2024 | Python): Project to analyze the importance of distance to the closest early education center at a census tract level, and (ii) an optimization model to assess where to locate new early education centers based on impact in distances. My contributions included calculating distances from each census tract in Chicago to the closest childcare center (using Google API), geospatial data analysis (spatial joins) and data visualization. 
 
+Some repos for school projects are private to follow academic honesty policies. Code for any of these is available on request:
 
+<details>
+  <summary>
+    <strong>Machine Learning for Public Policy (Pythin | scikit-learn, pytorch)</strong>
+  </summary>
+  <ul>
+    <li><strong>Classification</strong>: KNN, Decision Trees</li>
+    <li><strong>Accuracy: perceptrons, separability</li>
+    <li><strong>Optimization</strong>: stochastic gradient descent, learning rates</li>
+    <li><strong>Deep Learning</strong>: neural networks, backpropagation, PyTorch</li>
+  </ul>
+</details>
 
