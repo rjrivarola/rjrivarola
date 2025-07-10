@@ -44,7 +44,7 @@ Some repos for school projects are private to follow academic honesty policies. 
   <summary>
     <strong>Generative AI (Python)</strong>
   </summary>
-    Varied content: Encoder/Decoder, fine tuning, prompt engineering, building agents with LangGraph, RAG, transformers, developing AI applications   
+    <strong>Varied content</strong>strong>: Encoder/Decoder, fine tuning, prompt engineering, building agents with LangGraph, RAG, transformers, developing AI applications   
   <br><br>
 </details>
 
