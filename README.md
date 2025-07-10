@@ -44,7 +44,8 @@ Some repos for school projects are private to follow academic honesty policies. 
   <summary>
     <strong>Generative AI (Python)</strong>
   </summary>
-    <strong>Varied content</strong>strong>: Encoder/Decoder, fine tuning, prompt engineering, building agents with LangGraph, RAG, transformers, developing AI applications   
+    <strong>Varied content</strong>: Encoder/Decoder, fine tuning, prompt engineering, building agents with LangGraph, RAG, transformers, developing AI applications
+    <strong>Final project</strong>: An exploratory analysis of ChatGPT skills for geospatial data tasks
   <br><br>
 </details>
 
