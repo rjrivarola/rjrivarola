@@ -42,7 +42,7 @@ Some repos for school projects are private to follow academic honesty policies. 
 
 <details>
   <summary>
-    <strong>Generative AI (Python)</strong>
+    <strong>Generative AI (Python | OpenAI, LangChain, Anthropic)</strong>
   </summary>
     <ul>
       <li><strong>Varied content</strong>: Encoder/Decoder, fine tuning, prompt engineering, building agents with LangGraph, RAG, transformers, developing AI applications</li>
