@@ -24,9 +24,10 @@ For more information, feel free to contact me via [email](r.rivarolam@gmail.com)
 ## Code samples
 - [Apartments Plus](https://github.com/uchicago-capp-30320/apt-plus) (2025 | Python, JavaScript): [Apartments Plus](https://aptpl.us/) aggregates data that mainstream rental sites often do not display, such as building defects, grocery stores and bus stops availability. My contributions to this project as GIS frontend specialist were developing the map features and functionality.
 - [Qhapac-Nan](https://github.com/macs30123-s24/final-project-qhapac_nan) (2025 | Python): Project to explore geospatial determinants of the Qhapac-Ñan road. I use AWS and a dask cluster to run more than 100 models using a 11 million observations geospatial dataset, produce summary statistics and visualizations.   
-- [Distance to early childare centers and attendance rates](github.com/LosCAPPos/EarlyEducationProject) (2024 | Python): Project to analyze the importance of distance to the closest early education center at a census tract level, and (ii) an optimization model to assess where to locate new early education centers based on impact in distances. My contributions included calculating distances from each census tract in Chicago to the closest childcare center (using Google API), geospatial data analysis (spatial joins) and data visualization. 
+- [Distance to early childare centers and attendance rates](github.com/LosCAPPos/EarlyEducationProject) (2024 | Python): Project to analyze the importance of distance to the closest early education center at a census tract level, and (ii) an optimization model to assess where to locate new early education centers based on impact in distances. My contributions included calculating distances from each census tract in Chicago to the closest childcare center (using Google API), geospatial data analysis (spatial joins) and data visualization.
+- Data cleaning (2024 | Python): Employed fuzzy matching methods (Jaro-Winkler, ngrams) to clean 200K dataset to evaluate World Bank program. This streamlined the data cleaning process and improved the matching rate in 25%. (Code available upon request)
 
-Some repos for school projects are private to follow academic honesty policies. Code for any of these is available on request:
+Some repos for school projects are private to follow academic honesty policies. Code for any of these is available upon request:
 
 <details>
   <summary>
